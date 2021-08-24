@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/23/2011 -->
+<!-- -->
+<category>
+<pattern>WHERE IS ITM</pattern>
+<template>Aligarh-Palwal-Delhi Road, Karsua, near the district Aligarh</template>
+</category>
+
+<category><pattern>ITM</pattern>
+<template>ITM is also known as institute of technology and management.</template>
+</category>
+
+<category><pattern>WHAT COURSES DOES ITM OFFERS</pattern>
+<template>ITM provides variety of courses such as B.tech, MBA, Diploma Engg., M.tech, BCA, BBA and so on. </template>
+</category>
+
+<category><pattern>ITM CONTACT</pattern>
+<template>Phone No.- 0571-2213721, Email- itmaligarh@gmail.com</template>
+</category>
+
+<category><pattern>ITM WEBSITE</pattern>
+<template>http://www.itmaligarh.com/</template>
+</category>
+
+<category><pattern>HOW MANY STUDENTS STUDY IN ITM</pattern>
+<template>Around 10,000 students</template>
+</category>
+
+<category><pattern>ITM FEE STRUCTURE</pattern>
+<template>Visit office in main campus for more info.</template>
+</category>
+
+<category><pattern>COD</pattern>
+<template>call of duty battlefield 5</template>
+</category>
+
+<category><pattern>WHO IS THE HOD OF CS</pattern>
+<template>Mr. Ankur Kumar Varshney</template>
+</category>
+
+<category><pattern>WHAT DOES HOD TEACHES</pattern>
+<template>Machine learning</template>
+</category>
+
+<category><pattern>HOW BIG IS CS DEPARTMENT</pattern>
+<template>CS department has more than 10 teachers that teaches different subjects. </template>
+</category>
+
+<category><pattern>DOES ITM HAS LABS</pattern>
+<template>Yes</template>
+</category>
+
+<category><pattern>HOW MANY LABS DO WE HAVE</pattern>
+<template>25 labs</template>
+</category>
+
+<category><pattern>DO WE HAVE INDUSTRIAL TRAINING CENTER</pattern>
+<template>YES</template>
+</category>
+
+<category><pattern>HOW MUCH IS THE DISTANCE OD ITM</pattern>
+<template>From city almost 15km or more depending upon the person location</template>
+</category>
+
+<category><pattern>DO ITM PROVIDE BUS SERVICES</pattern>
+<template>YES</template>
+</category>
+
+<category><pattern>HOW MUCH IS THE PLACEMENT</pattern>
+<template>Above 90%</template>
+</category>
+
+<category><pattern>DOES ITM HAVE CAFETERRIA</pattern>
+<template>YES</template>
+</category>
+
+<category><pattern>DOES ITM HAVE PRAYING ROOM</pattern>
+<template>Yes</template>
+</category>
+
+<category><pattern>DOES ITM HAVE LIBRARY</pattern>
+<template>YES</template>
+</category>
+
+<category><pattern>HOW MANY TEACHING STAFF IS IN ITM</pattern>
+<template>More than 100 teachers</template>
+</category>
+
+<category><pattern>HOW BIG IS ITM CAMPUS</pattern>
+<template>200 acres (approx.)</template>
+</category>
+
+<category><pattern>ADMISSION PROCEDURE</pattern>
+<template>Please contact the head office of ITM, they will explain the admission procedure in much detail.</template>
+</category>
+
+<category><pattern>HOW MANY STUDENTS ARE IN FINAL YEAR CS</pattern>
+<template>43 Students</template>
+</category>
+
+<category><pattern>WHAT ARE THE SUBJECTS FOR 8 sem CS</pattern>
+<template>3 subjects- Machine learning, Data compression and Renewable energy resources.</template>
+</category>
+
+<category><pattern>WHO IS SHAMS</pattern>
+<template>He is a final year student of major computer science, working on machine learning model such as Chatbot using AIML.</template>
+</category>
+
+<category><pattern>WHAT IS DATE OF NEXT MID SEM</pattern>
+<template>25 June</template>
+</category>
+
+<category><pattern>CONTACT INFORMATION OF ANY TEACHER</pattern>
+<template>Please ask the teacher itself for contact information as ME does'nt have permission to do so.</template>
+</category>
+
+<category><pattern>WHAT IS THE SLYBUSS FOR FINAL YEAR CS</pattern>
+<template>Evolution of Computers, Generation of Computers, Classification of Computers Analog Digital and Hybrid Computers, Classification of Computers according to size, Supercomputers, Mainframe Computers, Personal Computers (Different Types) and Terminals (Different Types), Characteristics of Computers, Block Diagram of a Digital Computer, types of OS.</template>
+</category>
+
+<category>
+<pattern>WHO TEACHES RES</pattern>
+<template>Mr. Dinesh</template>
+</category>
+
+<category>
+<pattern>WHO TEACHES MACHINE LEARNING</pattern>
+<template>Mr. Sushil</template>
+</category>
+
+<category>
+<pattern>WHO TEACHES DATA COMPRESSION</pattern>
+<template>Mr. Rajat Sharma</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE SELECTION PROCESS FOR BA </pattern>
+<template>Selection is through Admission Test. There shall be one objective type paper of 100
+marks with the following components:
+ a) English : 25 Marks
+ b) Indo-Islamic Culture and Aligarh Movement : 25 Marks
+ c) General Awareness and Current Affairs : 40 Marks
+ d) Reasoning and Intelligence : 10 Marks .
+</template>
+</category>
+
+<category><pattern>WHAT IS THE SELECTION PROCESS FOR BSC</pattern>
+<template>Selection is through Admission Test. There shall be one objective type paper of 100
+marks with the following components:
+ Section I English : 25 Marks
+ Section Il Chemistry : 25 Marks
+ Section Ill Physics : 25 Marks
+ Section IV Mathematics : 25 Marks
+ Section V Biology : 25 Marks
+ Section VI Home Science : 25 Marks
+ Note: Sections I, II and III are compulsory. Candidates will have the choice to attempt any
+one Section from IV and V.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE SELECTION PROCESS FOR BTECH</pattern>
+<template>Through Admission Test . There shall be one objective type paper of 150 marks
+comprising 150 questions on Chemistry, Physics and Mathematics.</template>
+</category>
+
+<category><pattern>WHAT IS THE SELECTION PROCESS FOR MBBS </pattern>
+<template>Through NEET of the registered candidates. Selected candidates will have to go
+through medical fitness examination before completing the admission.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE SELECTION PROCESS FOR MCOM</pattern>
+<template>Selection is through Departmental Test. There shall be one objective type paper
+comprising 100 questions.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE SELECTION PROCESS FOR LLM </pattern>
+<template>Selection is through Departmental Test. There shall be one paper of 100 marks
+consisting of 50% objective type questions
+and 50% subjective type questions of LL.B./BA.LL.B. standard.
+</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE ELIGIBILITY FOR BSC </pattern>
+<template>To be Eligible for BSc (hons.) entrance test, The studen must has Senior Secondary
+School Certificate or an
+equivalent examination with at least 55% marks in aggregate of English and three subjects from
+amongst Biology, Chemistry,
+Mathematics, Physics and Home Science. For admission to B.Sc. (Hons.) with Physics /
+Mathematics / Statistics / Computer
+Applications as Main Subject, the candidate should have passed Mathematics at the
+qualifying examination.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE ELIGIBILITY FOR BA </pattern>
+<template>To be Eligible for BA (hons.) entrance test, The studen must has Senior Secondary
+School Certificate or an equivalent
+examination with at least 50% marks in aggregate of English and three Subjects from amongst
+Accountancy, Arabic, Banking, Biology,
+Biotechnology, Business Organization, Business Studies, Chemistry, Commerce, Computer
+Science, Economics, Education, English, Fine Arts,
+Geography, Hindi, History, Home Science, Islamic Studies, Mathematics, Persian, Philosophy,
+Physical Health Education, Physics, Political Science/Civics,
+Psychology, Sanskrit, Sociology, Statistics, Urdu and Modern Indian Languages (Bengali,
+Tamil, Telugu, Malayalam, Marathi, Punjabi and Kashmiri).
+OR Degree/Sanad from recognized Madarsa/Institution with at least 50% marks OR Bridge
+Course-Senior Secondary School Certificate from AMU with 50%
+marks in aggregate.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE ELIGIBILITY FOR BCOM </pattern>
+<template>Senior Secondary School Certificate Examination (Commerce) or an equivalent
+examination with not less than 55% marks in aggregate of English
+and Accounts and two subjects from amongst Economics, Business Studies, Business
+Organization, Commerce, Banking, Entreprenuership, Mathematics
+and/or Statistics. OR Diploma in Secretarial Practice examination of this University with not
+less than 55% marks (in theory subjects only) in aggregate.
+</template>
+</category>
+
+<category><pattern>WHAT IS THE ELIGIBILITY FOR BTECH </pattern>
+<template>12th or its equivalent examination in the relevant branch of study with not less
+than 60% marks in aggregate or its equivalent CPI/CGPA/NAG.
+</template>
+</category>
+
+
+</aiml>

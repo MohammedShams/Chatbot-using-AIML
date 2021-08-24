@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/23/2011 -->
+<!-- -->
+<category>
+<pattern>WHAT ARE INTELLIGENT AGENTS</pattern>
+<template>An intelligent agent is an autonomous entity that leverages sensors to understand a situation and make decisions. It can also use actuators to perform both simple and complex tasks.</template>
+</category>
+
+<category>
+<pattern>POPULAR PROGRAMMING LANGUAGE USED IN AI</pattern>
+<template>The open-source modular programming language Python leads the AI industry because of its simplicity and predictable coding behavior.Its popularity can be attributed to open-source libraries like Matplotlib and NumPy, efficient frameworks such as Scikit-learn, and practical version libraries like Tensorflow and VTK.</template>
+</category>
+
+<category>
+<pattern>WHAT ARE AI NEURAL NETWORKS</pattern>
+<template>Neural networks in AI mathematically model how the human brain works. This approach enables the machine to think and learn as humans do. This is how smart technology today recognizes speech, objects, and more.</template>
+</category>
+
+<category>
+<pattern>WHAT IS THE DIFFERENCE BETWEEN STRONG AI AND WEAK AI</pattern>
+<template>The difference between the two is just like the terms sound. Strong AI can successfully imitate human intelligence and is at the core of advanced robotics.Weak AI can only predict specific characteristics that resemble human intelligence. Alexa and Siri are excellent examples of weak AI.</template>
+</category>
+
+<category>
+<pattern>WHAT ARE SOME EXAMPLES OF AI</pattern>
+<template>Some compelling examples of AI applications are:
+Chatbots,
+Facial recognition,
+Image tagging,
+Natural language processing,
+Sales prediction,
+Self-driving cars,
+Sentiment analysis.</template>
+</category>
+
+<category>
+<pattern>WHAT IS A TURING TEST</pattern>
+<template>The Turing test, named after Alan Turing, is a method of testing a machine’s human-level intelligence. For example, in a human-versus-machine scenario, a judge will be tasked with identifying which terminal was occupied by a human and which was occupied by a computer based on individual performance.</template>
+</category>
+
+<category>
+<pattern>WHAT IS TENSOR FLOW</pattern>
+<template>TensorFlow is an open-source framework dedicated to ML. It’s a comprehensive and highly adaptable ecosystem of libraries, tools, and community resources that help developers build and deploy ML-powered applications. Both AlphaGo and Google Cloud Vision were built on the Tensorflow platform.</template>
+</category>
+
+<category>
+<pattern>WHAT IS TOWER OF HANOI</pattern>
+<template>Tower of Hanoi is a mathematical puzzle that shows how recursion might be utilized as a device in building up an algorithm to take care of a specific problem. Using a decision tree and a breadth-first search (BFS) algorithm in AI, we can solve the Tower of Hanoi.</template>
+</category>
+
+<category>
+<pattern>HOW WILL AI IMPACT APPLICATION DEVELOPMENT</pattern>
+<template>These types of questions help the interviewer ascertain your level of interest in the field. If you’re naturally passionate about AI and everything related to it, you should have some knowledge about current industry trends.
+So, if you have been actively following this space, you’ll know all about AIOps. In the coming months, you can expect AI to be more involved in how we build applications. It has the potential to transform how we use and manage the infrastructure at a micro and macro level.
+Some say that DevOps will be replaced by what they are calling AIOps because it allows developers to engage in accurate root cause analysis by combining big data, ML, and visualization.</template>
+</category>
+
+<category>
+<pattern>COMMON MISCONCEPTION ABOUT AI</pattern>
+<template>Many AI-related misconceptions are making the rounds in the age of “fake news.” The most common ones are:
+
+AI will replace humans,
+AI systems aren’t safe,
+AI will lead to significant unemployment.</template>
+</category>
+
+<category>
+<pattern>WHAT PACKAGES ARE USEFUL FOR DATA SCIENTISTS</pattern>
+<template>Python wasn’t built for data science. However, in recent years it has grown to become the go-to programming language for the following:
+
+Machine learning
+Predictive analytics
+Simple data analytics
+Statistics
+For data science projects, the following packages in the Python standard library will make life easier and accelerate deliveries:
+
+NumPy (to process large multidimensional arrays, extensive collections of high-level mathematical functions, and matrices),
+Pandas (to leverage built-in methods for rapidly combining, filtering, and grouping data),
+SciPy (to extend NumPy’s capabilities and solve tasks related to integral calculus, linear algebra, and probability theory.)</template>
+</category>
+
+<category>
+<pattern>WHAT IS COLLABORATIVE FILTERING</pattern>
+<template>Collaborative filtering can be described as a process of finding patterns from available information to build personalized recommendations. You can find collaborative filtering in action when you visit websites like Amazon and IMDB.</template>
+</category>
+
+<category>
+<pattern>DISADVANTAGES OF LINEAR MODELS</pattern>
+<template>There are many disadvantages to using linear models, but the main ones are:
+
+Errors in linearity assumptions,
+Lacks autocorrelation,
+It can’t solve overfitting problems,
+You can’t use it to calculate outcomes or binary outcomes.</template>
+</category>
+
+<category>
+<pattern>WHAT IS FEATURE VECTOR</pattern>
+<template>A feature vector is an n-dimensional vector that contains essential information that describes the characteristics of an object. For example, it can be an object’s numerical features or a list of numbers taken from the output of a neural network layer.</template>
+</category>
+
+<category>
+<pattern>WHAT IS A SELECT BIAS</pattern>
+<template>When you’re dealing with a non-random sample, selection bias will occur due to flaws in the selection process. This happens when a subset of the data is consistently excluded because of a particular attribute. This exclusion will distort results and influence the statistical significance of the test.</template>
+</category>
+
+<category>
+<pattern>WHAT IS A RANDOM FORESTS</pattern>
+<template>A random forest is a data construct that’s applied to ML projects to develop a large number of random decision trees while analyzing variables.</template>
+</category>
+
+<category>
+<pattern>WHAT IS AN EIGEN VALUES</pattern>
+<template>The directions along which a particular linear transformation compresses, flips, or stretches is called eigenvalue. Eigenvectors are used to understand these linear transformations.</template>
+</category>
+
+<category>
+<pattern>WHAT IS A HASH TABLE</pattern>
+<template>There are two parts to a hash table. The first is an array, or the actual table where the data is stored, and the other is a mapping function that’s known as the hash function.
+It’s a data structure that implements an associative array abstract data type that can map key values. It can also compute an index into an array of slots or buckets where the desired value can be found.
+</template>
+</category>
+
+<category>
+<pattern>WHAT ARE DIFFERENT ALGORITHMS USED IN AI AND ML</pattern>
+<template>Some algorithm techniques that can be leveraged are:
+Learning to learn,
+Reinforcement learning (deep adversarial networks, q-learning, and temporal difference),
+Semi-supervised learning,
+Supervised learning (decision trees, linear regression, naive bayes, nearest neighbor, neural networks, and support vector machines),
+Transduction,
+Unsupervised learning (association rules and k-means clustering.)</template>
+</category>
+
+<category>
+<pattern>WHAT IS A REGULARIZATION</pattern>
+<template>When you have underfitting or overfitting issues in a statistical model, you can use the regularization technique to resolve it. Regularization techniques like LASSO help penalize some model parameters if they are likely to lead to overfitting.</template>
+</category>
+
+<category>
+<pattern>WHAT IS HEURISTIC FUNCTION</pattern>
+<template>A heuristic function ranks alternatives, in search algorithms, at each branching step based on the available information to decide which branch to follow.</template>
+</category>
+
+<category>
+<pattern>WHAT IS TOP DOWN PARSER</pattern>
+<template>A top-down parser begins by hypothesizing a sentence and successively predicting lower level constituents until individual pre-terminal symbols are written.</template>
+</category>
+
+<category>
+<pattern>DIFFERENCE BETWEEN BREADTH FIRST SEARCH AND BEST FIRST SEARCH</pattern>
+<template>These are the two strategies which are quite similar. In best first search, we expand the nodes in accordance with the evaluation function. While, in breadth first search a node is expanded in accordance to the cost function of the parent node.</template>
+</category>
+
+<category>
+<pattern>WHAT ARE FRAMES AND SCRIPTS IN AI</pattern>
+<template>Frames are a variant of semantic networks which is one of the popular ways of presenting non-procedural knowledge in an expert system. A frame which is an artificial data structure is used to divide knowledge into substructure by representing “stereotyped situations’. Scripts are similar to frames, except the values that fill the slots must be ordered.  Scripts are used in natural language understanding systems to organize a knowledge base in terms of the situation that the system should understand.</template>
+</category>
+
+<category>
+<pattern>WHAT IS A STAR ALGORITHM</pattern>
+<template>A* is a computer algorithm that is extensively used for the purpose of finding the path or traversing a graph in order to find the most optimal route between various points called the nodes.</template>
+</category>
+
+<category>
+<pattern>WHAT IS BIRDIRECTIONAL SEARCH THEOREM</pattern>
+<template>In a bidirectional search algorithm, the search begins in forward from the beginning state and in reverse from the objective state. The searches meet to identify a common state. The initial state is linked with the objective state in a reverse way. Each search is done just up to half of the aggregate way.</template>
+</category>
+
+<category>
+<pattern>WHAT IS FOPL</pattern>
+<template>First-order predicate logic is a collection of formal systems, where each statement is divided into a subject and a predicate. The predicate refers to only one subject, and it can either modify or define the properties of the subject.</template>
+</category>
+
+<category>
+<pattern>WHAT IS DEEP LEARNING</pattern>
+<template>Deep Learning is a subset of Machine Learning which is used to create an artificial multi-layer neural network. It has self-learning capabilities based on previous instances, and it provides high accuracy.</template>
+</category>
+
+<category>
+<pattern>APPLICATIONS OF MACHINE LEARNING</pattern>
+<template>Image, speech, and face detection,
+Bioinformatics,
+Market segmentation,
+Manufacturing and inventory management,
+Fraud detection, and so on.</template>
+</category>
+
+<category>
+<pattern>WHAT IS RECOMMENDATION SYSTEM</pattern>
+<template>A recommendation system is an information filtering system that is used to predict user preference based on choice patterns followed by the user while browsing/using the system.</template>
+</category>
+
+<category>
+<pattern>WHAT IS ANN</pattern>
+<template>Artificial Neural Network(ANN) is a computational model based on the structure of the Biological Neural Network(BNN). The human brain has billions of neurons that collect, process the information, and drive meaning results out of it. The neurons use electro-chemical signals to communicate and pass the information to other neurons. Similarly, ANN consists of artificial neurons called nodes connected with other nodes forming a complex relationship between the output and the input. </template>
+</category>
+
+<category>
+<pattern>WHAT IS MACHINE LEARNING</pattern>
+<template>Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.</template>
+</category>
+
+</aiml>
